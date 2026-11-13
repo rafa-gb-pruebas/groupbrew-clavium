@@ -1,0 +1,9 @@
+sign_in_methods:
+  - email_link
+  - password
+hardware_keys: true
+managed_computer: false
+remote_shell:
+  enabled: true
+  silent_allowed: false
+  retention_days: 90
