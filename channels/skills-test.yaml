@@ -1,0 +1,8 @@
+id: 94002070-6f99-4c7e-a061-f6e5144af3e3
+name: Skills test
+kind: email
+events:
+  - ai_skill.high_risk
+  - ai_skill.policy_enforced
+digest_interval: daily
+enabled: true

@@ -1,0 +1,12 @@
+format: 1
+workspace: 346c9185-fb56-4fdb-a017-a68bb9182040
+slug: clavium
+areas:
+  - policies
+  - device_groups
+  - configurations
+  - commands
+  - channels
+  - exceptions
+  - security_settings
+  - private_taps
