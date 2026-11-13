@@ -1,0 +1,6 @@
+kind: auto_upgrades_uninstalls
+enabled: true
+payload:
+  schedule: daily
+  upgradeOutdated: true
+  uninstallForbidden: false
